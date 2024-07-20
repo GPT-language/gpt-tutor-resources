@@ -3,7 +3,7 @@
 </p>
 
 
-The resources include three parts:
+The resources include two parts:
 
 ### Vocabulary file (csv format)
 - This file includes vocabulary and grammar to be learned, such as IELTS core vocabulary and beginner-level English grammar.
@@ -14,6 +14,6 @@ The resources include three parts:
 
 ## How to Use (without registering for GitHub)
 
-1. **Download** the required files.
+1. **Open** the folder, **download** the required files.
 2. **Open** GPT-Tutor and **import** the files.
 
