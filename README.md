@@ -1,3 +1,19 @@
-资源包括两部分：（1）词书文件（csv格式）（2）功能组文件（json格式）
+<p >
+    <br> English | <a href="README-CN.md">中文</a>
+</p>
 
-使用方式：（1）下载（2）打开gpt-tutor导入
+
+The resources include three parts:
+
+### Vocabulary file (csv format)
+- This file includes vocabulary and grammar to be learned, such as IELTS core vocabulary and beginner-level English grammar.
+
+### Action group file (json format)
+- A set of prompts and related settings around the prompts.
+- Determines the functionalities of GPT-Tutor, the LLM used, and the corresponding model.
+
+## How to Use (without registering for GitHub)
+
+1. **Download** the required files.
+2. **Open** GPT-Tutor and **import** the files.
+
