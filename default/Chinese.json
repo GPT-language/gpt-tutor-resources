@@ -8,7 +8,7 @@
     "commandPrompt": "需要翻译的内容是：${text} \n",
     "outputRenderingFormat": "markdown",
     "groups": ["常用功能", "句子学习"],
-    "createdAt": "1702889507131",  
+    "createdAt": "1702889507131",
     "updatedAt": "1702890680782",
     "id": 1
   },
