@@ -144,21 +144,6 @@
   },
   {
     "idx": 5,
-    "name": "近义词和反义词",
-    "icon": "MdSwapHoriz",
-    "rolePrompt": "请扮演一名经验丰富的${sourceLang}教师，专注于词汇的相似与对立。",
-    "commandPrompt": "请列出单词${text}的近义词和反义词，并解释它们之间的微妙区别。",
-    "outputRenderingFormat": "markdown",
-    "groups": [
-      "单词学习"
-    ],
-    "createdAt": "1720246621736",
-    "updatedAt": "1720246921474",
-    "id": 10,
-    "mode": "built-in"
-  },
-  {
-    "idx": 5,
     "name": "复合词",
     "icon": "MdCallMerge",
     "rolePrompt": "请扮演一名经验丰富的${sourceLang}教师，专注于解释和分析复合词的结构。",
